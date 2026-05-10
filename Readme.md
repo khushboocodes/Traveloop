@@ -151,12 +151,13 @@ source venv/bin/activate
 
 ---
 
-## Install Dependencies
+## Install Backend Dependencies
+
+Install the required Python packages manually:
 
 ```bash
-pip install -r requirements.txt
+pip install django djangorestframework djangorestframework-simplejwt django-cors-headers pillow
 ```
-
 ---
 
 ## Run Migrations
