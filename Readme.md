@@ -104,7 +104,7 @@ traveloop/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/traveloop.git
+git clone https://github.com/khushboocodes/Traveloop.git
 cd traveloop
 ```
 
@@ -223,12 +223,6 @@ http://127.0.0.1:8000/admin
 
 ---
 
-# 📸 Screenshots
-
-_Add project screenshots here._
-
----
-
 # 🔮 Future Improvements
 
 - AI-powered itinerary suggestions
@@ -243,10 +237,7 @@ _Add project screenshots here._
 # 👨‍💻 Author
 
 ### Khushboo Khator
-
-- Full Stack Developer
-- AI/ML Enthusiast
-- Hackathon Builder
+### Harshvardhan Singh Bhadoria
 
 ---
 
